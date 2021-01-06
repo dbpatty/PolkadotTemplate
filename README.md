@@ -1,5 +1,5 @@
-
-<h1 align="right"><img src="https://anamix.top/logo/logo-polkadot.svg" height="100px" /> Collection of templates for Polkadot/Kusama presentations </h1>
+<img src="https://anamix.top/logo/logo-polkadot.svg" height="80px" />
+<h1 align="right"> Collection of templates for Polkadot/Kusama presentations </h1>
 <p align="left">This project was created to help people, mainly ambassadors, who want to quickly find some templates for presentations.
 If you are interested in adding a doc or suggests for existing docs, feel free to create a pull request or leave feedback here.
 </p>
